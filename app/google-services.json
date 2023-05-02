@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56313337622",
+    "project_id": "running-tracker-br",
+    "storage_bucket": "running-tracker-br.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56313337622:android:5215b60bdfb4b5b456e237",
+        "android_client_info": {
+          "package_name": "uz.ravshanbaxranov.distancetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56313337622-gqelounjhc9i4e4ru8loqbm6g38p7f3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeSIne9kcyDEtPOZrQlJNx79kvHkhJCzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56313337622-gqelounjhc9i4e4ru8loqbm6g38p7f3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

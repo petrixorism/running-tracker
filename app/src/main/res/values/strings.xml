@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Running tracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="run">Run</string>
+    <string name="history">History</string>
+    <string name="description">Our app provides plans that designed by professional fitness coach to make weight loss effective, easy and fun.</string>
+    <string name="title">Running tracker</string>
+    <string name="subtitle">Track and save your runs</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="weight">Weight(kg):</string>
+    <string name="full_name">Full Name:</string>
+    <string name="enter_your_weight">Enter your weight</string>
+    <string name="save">Save</string>
+    <string name="access_token"></string>
+    <string name="_0_0">0.0</string>
+    <string name="distance_km">Distance(km)</string>
+    <string name="avg_pace_km_h">Avg Pace(km/h)</string>
+    <string name="_0">0</string>
+    <string name="calories_kcal">Calories(kcal)</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="stop">Stop</string>
+    <string name="current_jogging">Current jogging</string>
+    <string name="calorie">Calorie:</string>
+    <string name="average_pace">Average pace:</string>
+    <string name="time">Time:</string>
+    <string name="duration">Duration:</string>
+    <string name="distance">Distance:</string>
+    <string name="permission_text">To see maps for automatically tracked activities, allow Running Tracker to use your location all of the time.\n\n Running Tracker will use location in the background to show walks, runs, and bike rides on a map</string>
+    <string name="empty">null</string>
+    <string name="allow">Allow</string>
+    <string name="see_all"><u>See all</u></string>
+    <string name="slogan">Track your progress, reach your goals with our running tracker app!</string>
+</resources>
